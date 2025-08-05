@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Fitbit Health Insight System
+# 🧠 GenAI-Powered Fitbit Health Insight System
 
 A secure, full-stack PHP application that connects to the Fitbit API, fetches and stores user health data, and uses Google's Gemini (RAG) model to generate personalized fitness insights via a conversational chat interface.
 
