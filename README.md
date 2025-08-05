@@ -79,4 +79,4 @@ Set up a **cron job or Windows task** to run `fetch_fitbit_data.php` once a day 
 Vinay P.  
 [LinkedIn](https://linkedin.com/in/vpal) 
 
-##Note : I'm currently working on this project
+## Note : I'm currently working on this project
